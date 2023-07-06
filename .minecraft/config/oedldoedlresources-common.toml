@@ -1,0 +1,172 @@
+#Toggle all recipes from this mod. All recipes for items / blocks / liquids will be disabled. This option is intended for use in a modpack with custom recipes so you do not have to remove them with Crafttweaker. This can break certain recipes or other mechanics. [Default: true]
+enable_mod_recipes = true
+
+[Worldgen]
+	#Toggle generation of ores in the end dimension. [Default: true]
+	enable_end_ores = true
+	#Toggle generation of ores in the overworld dimension. [Default: true]
+	enable_overworld_ores = true
+	#Toggle generation of ores in the nether dimension. [Default: true]
+	enable_nether_ores = true
+
+	[Worldgen.Values]
+
+		[Worldgen.Values.Nether]
+			#Set quartarium ore vein size (0 means disabled). [Default: 5]
+			#Range: 0 ~ 100
+			quartarium_ore_veins_per_chunk = 5
+			#Set himejimarium ore vein size (0 means disabled). [Default: 3]
+			#Range: 0 ~ 100
+			himejimarium_ore_max_vein_size = 3
+			#Set argentorium ore vein size (0 means disabled). [Default: 3]
+			#Range: 0 ~ 100
+			argentorium_ore_max_vein_size = 3
+			#Set nagatorium ore vein size (0 means disabled). [Default: 4]
+			#Range: 0 ~ 100
+			nagatorium_ore_max_vein_size = 4
+			#Set toujourium ore vein size (0 means disabled). [Default: 5]
+			#Range: 0 ~ 100
+			toujourium_ore_veins_per_chunk = 5
+			#Set sakurajimarium ore vein size (0 means disabled). [Default: 5]
+			#Range: 0 ~ 100
+			sakurajimarium_ore_veins_per_chunk = 5
+			#Set gremorium ore vein size (0 means disabled). [Default: 3]
+			#Range: 0 ~ 100
+			gremorium_ore_max_vein_size = 3
+			#Set toujourium ore vein size (0 means disabled). [Default: 3]
+			#Range: 0 ~ 100
+			toujourium_ore_max_vein_size = 3
+			#Set nagatorium ore vein size (0 means disabled). [Default: 7]
+			#Range: 0 ~ 100
+			nagatorium_ore_veins_per_chunk = 7
+			#Set argentorium ore vein size (0 means disabled). [Default: 5]
+			#Range: 0 ~ 100
+			argentorium_ore_veins_per_chunk = 5
+			#Set sakurajimarium ore vein size (0 means disabled). [Default: 3]
+			#Range: 0 ~ 100
+			sakurajimarium_ore_max_vein_size = 3
+			#Set himejimarium ore vein size (0 means disabled). [Default: 5]
+			#Range: 0 ~ 100
+			himejimarium_ore_veins_per_chunk = 5
+			#Set gremorium ore vein size (0 means disabled). [Default: 5]
+			#Range: 0 ~ 100
+			gremorium_ore_veins_per_chunk = 5
+			#Set quartarium ore vein size (0 means disabled). [Default: 3]
+			#Range: 0 ~ 100
+			quartarium_ore_max_vein_size = 3
+
+		[Worldgen.Values.Overworld]
+			#Set randomite ore vein size (0 means disabled). [Default: 5]
+			#Range: 0 ~ 100
+			randomite_ore_max_vein_size = 5
+			#Set oedldoedl ore vein size (0 means disabled). [Default: 3]
+			#Range: 0 ~ 100
+			oedldoedl_ore_max_vein_size = 3
+			#Set salt ore vein size (0 means disabled). [Default: 22]
+			#Range: 0 ~ 100
+			salt_ore_veins_per_chunk = 22
+			#Set mithril ore vein size (0 means disabled). [Default: 7]
+			#Range: 0 ~ 100
+			mithril_ore_veins_per_chunk = 7
+			#Set gunpowder ore vein size (0 means disabled). [Default: 10]
+			#Range: 0 ~ 100
+			gunpowder_ore_veins_per_chunk = 10
+			#Set gunpowder ore vein size (0 means disabled). [Default: 7]
+			#Range: 0 ~ 100
+			gunpowder_ore_max_vein_size = 7
+			#Set salt ore vein size (0 means disabled). [Default: 12]
+			#Range: 0 ~ 100
+			salt_ore_max_vein_size = 12
+			#Set oedldoedl ore vein size (0 means disabled). [Default: 6]
+			#Range: 0 ~ 100
+			oedldoedl_ore_veins_per_chunk = 6
+			#Set ender ore vein size (0 means disabled). [Default: 6]
+			#Range: 0 ~ 100
+			ender_ore_veins_per_chunk = 6
+			#Set base ore vein size (0 means disabled). [Default: 0]
+			#Range: 0 ~ 100
+			base_ore_max_vein_size = 0
+			#Set randomite ore vein size (0 means disabled). [Default: 12]
+			#Range: 0 ~ 100
+			randomite_ore_veins_per_chunk = 12
+			#Set mithril ore vein size (0 means disabled). [Default: 4]
+			#Range: 0 ~ 100
+			mithril_ore_max_vein_size = 4
+			#Set base ore vein size (0 means disabled). [Default: 0]
+			#Range: 0 ~ 100
+			base_ore_veins_per_chunk = 0
+			#Set ender ore vein size (0 means disabled). [Default: 4]
+			#Range: 0 ~ 100
+			ender_ore_max_vein_size = 4
+
+		[Worldgen.Values.End]
+			#Set element od vein size (0 means disabled). [Default: 6]
+			#Range: 0 ~ 100
+			element_od_veins_per_chunk = 6
+			#Set element od vein size (0 means disabled). [Default: 3]
+			#Range: 0 ~ 100
+			element_od_max_vein_size = 3
+
+[Content]
+	#Toggle sounds from chaos plank when right clicked. [Default: true]
+	chaos_plank_sound = true
+	#Toggle all particles from ores. [Default: true]
+	ender_ore_particles = true
+	#Toggle sounds from money when right clicked. [Default: true]
+	money_sound = true
+
+	[Content."Unstable Ingot"]
+		#Toggle explosions from unstable ingots after crafting, droppring and closing gui. [Default: true]
+		unstable_explosion = true
+		#Set the unstable ingot timer (20 = 1sec). [Default: 200]
+		#Range: 10 ~ 1200
+		unstable_timer = 200
+
+[Integration]
+	#Toggle JEI descriptions. [Default: true]
+	jei_descriptions = true
+	#Toggle TOP tooltips. [Default: true]
+	top_tooltips = true
+
+["Potion Effects"]
+	#Toggle all effects given by blocks and items. [Default: true]
+	all_potion_effects_enabled = true
+
+	["Potion Effects".Blocks]
+		#Set the base effect amplifier for block walking. [Default: 3]
+		#Range: 1 ~ 255
+		block_walking_base_amplifier = 3
+		#Toggle all block walking effects. [Default: true]
+		block_walking_effects_enabled = true
+		#Set the base effect duration for block walking. [Default: 100]
+		#Range: 10 ~ 72000
+		block_walking_base_duration = 100
+		#Toggle all block effects. [Default: true]
+		block_effects_enabled = true
+		#Set the base effect amplifier for blocks. [Default: 2]
+		#Range: 1 ~ 255
+		block_base_amplifier = 2
+		#Set the base effect duration for blocks. [Default: 200]
+		#Range: 10 ~ 72000
+		block_base_duration = 200
+
+	["Potion Effects".Nuggets]
+		#Set the base effect amplifier for nuggets. [Default: 1]
+		#Range: 1 ~ 255
+		nugget_base_amplifier = 1
+		#Set the base effect duration for nuggets. [Default: 40]
+		#Range: 10 ~ 72000
+		nugget_base_duration = 40
+		#Toggle all ingot effects. [Default: true]
+		nugget_effects_enabled = true
+
+	["Potion Effects".Ingots]
+		#Set the base effect duration for ingots. [Default: 100]
+		#Range: 10 ~ 72000
+		ingot_base_duration = 100
+		#Toggle all ingot effects. [Default: true]
+		ingot_effects_enabled = true
+		#Set the base effect amplifier for ingots. [Default: 1]
+		#Range: 1 ~ 255
+		ingot_base_amplifier = 1
+

@@ -1,0 +1,14 @@
+name = "XNet Gases"
+filename = "XNetGases-1.16.5-2.3.10.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/H1x2EwLg/versions/UBOzDhdY/XNetGases-1.16.5-2.3.10.jar"
+hash-format = "sha512"
+hash = "e3d79ee972efce52e86fd53ec352f24ce34d6ad141fb91c2618b1786a6d67236982c7c2529e63812f01184c97aa0173e51a136fd4eb8df7cb9f2a40be8d8159b"
+
+[update]
+[update.modrinth]
+mod-id = "H1x2EwLg"
+version = "UBOzDhdY"

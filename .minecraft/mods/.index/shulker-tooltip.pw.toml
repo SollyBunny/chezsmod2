@@ -1,0 +1,14 @@
+name = "Shulker Tooltip"
+filename = "ShulkerTooltip-1.12.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "7a533cd089f0ac9997d3b5677c7d72b7f19e4bda"
+
+[update]
+[update.curseforge]
+file-id = 3885934
+project-id = 292899

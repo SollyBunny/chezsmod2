@@ -1,0 +1,7 @@
+#556 minecraft:beach
+#010 minecraft:forest
+#678 byg:fresh_water_lake
+#4F1 minecraft:ocean
+#5FF minecraft:river
+#6FE byg:twilight_valley
+#1D1 byg:twilight_valley_hills

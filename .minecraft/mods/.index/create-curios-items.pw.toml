@@ -1,0 +1,14 @@
+name = "Create Curios Goggles [DISCONTINUED]"
+filename = "create_curios_items-1.16.5 v1.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "db604a3c4ce879f82a2de3ca47d8aa35bbf6f78e"
+
+[update]
+[update.curseforge]
+file-id = 3954408
+project-id = 665321

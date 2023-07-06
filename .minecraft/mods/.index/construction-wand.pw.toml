@@ -1,0 +1,14 @@
+name = "Construction Wand"
+filename = "constructionwand-1.16.5-2.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/bV2crgLh/versions/igLNVPcs/constructionwand-1.16.5-2.6.jar"
+hash-format = "sha512"
+hash = "fb755429ec4771aeb99dd782dc48157c9211b0109a6d92aecee47c01ae76c6aed112707219b01353e56175ff2c647f8efc835f3355b0a81c58a5dfa5bde53365"
+
+[update]
+[update.modrinth]
+mod-id = "bV2crgLh"
+version = "igLNVPcs"

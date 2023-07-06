@@ -1,0 +1,14 @@
+name = "Oedldoedl Gear"
+filename = "oedldoedlgear-1.16.5-3.2.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "6c9df6bb82c35cf0894774f991f50bed8184d817"
+
+[update]
+[update.curseforge]
+file-id = 3852710
+project-id = 518455

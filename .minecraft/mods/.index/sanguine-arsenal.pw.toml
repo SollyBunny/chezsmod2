@@ -1,0 +1,14 @@
+name = "Eidolon's Sanguine Arsenal"
+filename = "sanguinearsenal-1.16.5-1.8.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "4cc664649ec3f6895254b8a998dab0ecb9da0411"
+
+[update]
+[update.curseforge]
+file-id = 3871154
+project-id = 604152

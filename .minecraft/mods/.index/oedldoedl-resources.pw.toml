@@ -1,0 +1,14 @@
+name = "Oedldoedl Resources"
+filename = "oedldoedlresources-1.16.5-3.8.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d46a734af7f1267fd49e31cf86ff8be6097c0c94"
+
+[update]
+[update.curseforge]
+file-id = 3800441
+project-id = 513315

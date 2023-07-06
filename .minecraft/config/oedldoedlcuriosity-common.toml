@@ -1,0 +1,12 @@
+#Toggle all recipes from this mod. All recipes for items / blocks / liquids will be disabled. This option is intended for use in a modpack with custom recipes so you do not have to remove them with Crafttweaker. This can break certain recipes or other mechanics. [Default: true]
+enable_mod_recipes = true
+
+[Generel]
+	#Set curio drop rule. [Default: DEFAULT]
+	#Allowed Values: DEFAULT, ALWAYS_DROP, ALWAYS_KEEP, DESTROY
+	curio_drop_rule = "DEFAULT"
+	#Toggle rendering from all curios. [Default: true]
+	render_curios = true
+	#Toggle curio equip from use. [Default: true]
+	curio_equip_from_use = true
+

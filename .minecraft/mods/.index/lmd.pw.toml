@@ -1,0 +1,14 @@
+name = "Let Me Despawn"
+filename = "letmedespawn-forge-1.16-1.0.2a.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/vE2FN5qn/versions/yxrgBOmL/letmedespawn-forge-1.16-1.0.2a.jar"
+hash-format = "sha512"
+hash = "e375739619d99fa6254444cecb05b5151eea02eeeeeccf415f4fa9f3d71ddb67658c36d572b2360c024feb662df4a383cff4f080e0b6d76f16e70749c2246f67"
+
+[update]
+[update.modrinth]
+mod-id = "vE2FN5qn"
+version = "yxrgBOmL"

@@ -1,0 +1,20 @@
+{
+	id: "5ddc394e-c4db-427d-9e0c-eedf963f31ed"
+	type: "player"
+	player_name: "SollyBunny"
+	ranks: {
+		5ddc394e-c4db-427d-9e0c-eedf963f31ed: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "SollyBunny"
+		"ftbteams:color": "#7D59FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

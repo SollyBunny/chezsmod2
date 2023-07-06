@@ -1,0 +1,14 @@
+name = "InvMove"
+filename = "InvMove-1.16-0.8.4-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/REfW2AEX/versions/hrMnbArx/InvMove-1.16-0.8.4-Forge.jar"
+hash-format = "sha512"
+hash = "5f4c4bd25cea9511ff7b4e3c99dc2d0d1a637ba8b0c792a41ae4d552aad0ea6097d4b7c6a962a14760843468bfa018ec936b0f2428dd82923958371542c8a31f"
+
+[update]
+[update.modrinth]
+mod-id = "REfW2AEX"
+version = "hrMnbArx"
