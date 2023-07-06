@@ -6,3 +6,5 @@
 .minecraft/server-resource-packs/*
 .minecraft/usercache.json
 .minecraft/usernamecache.json
+.minecraft/crash-reports/*
+.minecraft/logs/*
