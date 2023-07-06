@@ -1,0 +1,14 @@
+name = "Oedldoedl Curiosity"
+filename = "oedldoedlcuriosity-1.16.5-3.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "44378f6c438f12133aafe38c3b5d8a19ffe8415c"
+
+[update]
+[update.curseforge]
+file-id = 3781023
+project-id = 581169

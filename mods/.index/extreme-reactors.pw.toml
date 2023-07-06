@@ -1,0 +1,14 @@
+name = "Extreme Reactors"
+filename = "ExtremeReactors2-1.16.5-2.0.64.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/idkvShUy/versions/qSp5oA64/ExtremeReactors2-1.16.5-2.0.64.jar"
+hash-format = "sha512"
+hash = "8d2fd20b61250aafbc9fd0c35f7ddc2e6c31c477f07df9638316ca610d0c4c6fb0fd9b83c808026a0b1917ba65cfefbfbc86712af9ac96b29b2899f3b60ec56b"
+
+[update]
+[update.modrinth]
+mod-id = "idkvShUy"
+version = "qSp5oA64"

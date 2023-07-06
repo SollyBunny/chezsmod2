@@ -1,0 +1,14 @@
+name = "Controlling"
+filename = "Controlling-7.0.0.29.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/xv94TkTM/versions/Z7UMwzSN/Controlling-7.0.0.29.jar"
+hash-format = "sha512"
+hash = "247ebb1d3d62f4d0e7fda3a1f6c5ebfcea0637fd4694134628a702cee8cb557f75ee19838886b5c2203750a539d6d69cdf9acd694b862bd34a8af4d70b45506f"
+
+[update]
+[update.modrinth]
+mod-id = "xv94TkTM"
+version = "Z7UMwzSN"

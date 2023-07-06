@@ -1,0 +1,14 @@
+name = "Easy Shulker Access"
+filename = "Easy Shulker Access-1.16.5-1.1.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "4465d7387ac8e061e929971b241cb21605a3bf16"
+
+[update]
+[update.curseforge]
+file-id = 3265267
+project-id = 455807

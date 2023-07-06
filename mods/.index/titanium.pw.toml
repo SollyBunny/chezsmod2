@@ -1,0 +1,14 @@
+name = "Titanium"
+filename = "titanium-1.16.5-3.2.8.7-22.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/1Ro7m06l/versions/U2ihcjtm/titanium-1.16.5-3.2.8.7-22.jar"
+hash-format = "sha512"
+hash = "6c7002acd5fb5050f54e2c80e90adbadb250bb0f8b01f2ebc36045ce037d9b1727beea979af6f1e5b31dfba0c6341e4e323debf047c0375c7c5d13f2bdfcbbbe"
+
+[update]
+[update.modrinth]
+mod-id = "1Ro7m06l"
+version = "U2ihcjtm"

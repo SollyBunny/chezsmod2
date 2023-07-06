@@ -1,0 +1,14 @@
+name = "AmbientSounds"
+filename = "AmbientSounds_v3.1.9_mc1.16.5.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/fM515JnW/versions/3.1.9/AmbientSounds_v3.1.9_mc1.16.5.jar"
+hash-format = "sha512"
+hash = "f95bd301bde049afc68efb812a4da6248e3c19c4482daaf8665615e8e5b0303f276a98ea6b4df0de6886e1e0d6899cd1b7a163f092310f632562af3c6fb60d89"
+
+[update]
+[update.modrinth]
+mod-id = "fM515JnW"
+version = "gFA6rBRh"

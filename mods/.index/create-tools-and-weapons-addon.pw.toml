@@ -1,0 +1,14 @@
+name = "Create: Armor and Weapons Addon"
+filename = "CreateArmorAndWeaponsv2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "b809a60ceb1a41ad31f4d4c744417506f2e41f8d"
+
+[update]
+[update.curseforge]
+file-id = 3612636
+project-id = 556927

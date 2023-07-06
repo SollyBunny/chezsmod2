@@ -1,0 +1,14 @@
+name = "Mantle"
+filename = "Mantle-1.16.5-1.6.157.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Cg6Uc79H/versions/OyiVX48M/Mantle-1.16.5-1.6.157.jar"
+hash-format = "sha512"
+hash = "56f58179242e40a11ab993f41e830feb983162836bb04d4c15e507c5f056f00732e09a033a072f84703f856b6e1994c38bc40db13a9f90b30dd5dc4850b259b1"
+
+[update]
+[update.modrinth]
+mod-id = "Cg6Uc79H"
+version = "OyiVX48M"

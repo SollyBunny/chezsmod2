@@ -1,0 +1,14 @@
+name = "Botany Trees"
+filename = "BotanyTrees-1.16.5-3.0.10.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/mvs7RoIW/versions/Qv3HvSTa/BotanyTrees-1.16.5-3.0.10.jar"
+hash-format = "sha512"
+hash = "df9fb14f79c0fcc1aea74bda54c334c3d5f00cf8473759c4fcf627b532be2cc5805a64059c3384fec456d9248876e7a4c228d55073fd6058b72d2e8391b910bb"
+
+[update]
+[update.modrinth]
+mod-id = "mvs7RoIW"
+version = "Qv3HvSTa"

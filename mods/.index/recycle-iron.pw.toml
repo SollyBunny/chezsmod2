@@ -1,0 +1,14 @@
+name = "Recycle Iron"
+filename = "recycleiron-1.16.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "95d6c9d87432ed9ed2356d14525edd48b271124f"
+
+[update]
+[update.curseforge]
+file-id = 3384563
+project-id = 502661
