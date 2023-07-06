@@ -1,0 +1,8 @@
+.minecraft/Xaero*
+.minecraft/local/ftbchunks/data/*
+.minecraft/saves/*
+.minecraft/schematics/*
+.minecraft/screenshots/*
+.minecraft/server-resource-packs/*
+.minecraft/usercache.json
+.minecraft/usernamecache.json
