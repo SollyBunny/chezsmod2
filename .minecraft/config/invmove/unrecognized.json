@@ -1,8 +1,12 @@
 {
   "allowMovement": {
-    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
   },
   "hideBackground": {
-    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
   }
 }

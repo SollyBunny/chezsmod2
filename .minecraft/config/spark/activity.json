@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "SollyBunny",
+      "uniqueId": "5ddc394e-c4db-427d-9e0c-eedf963f31ed"
+    },
+    "time": 1688667738888,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/jOM07SPBcX"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SollyBunny",
+      "uniqueId": "5ddc394e-c4db-427d-9e0c-eedf963f31ed"
+    },
+    "time": 1688666298155,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Mvp1cJZMVX"
+    }
+  }
+]
