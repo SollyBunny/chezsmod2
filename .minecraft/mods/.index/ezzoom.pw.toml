@@ -1,0 +1,14 @@
+name = "EzZoom"
+filename = "ezzoom-1.16.4-1.1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/UFFkmZv6/versions/JzSnlwjE/ezzoom-1.16.4-1.1.1.jar"
+hash-format = "sha512"
+hash = "fe7f089ace48852b10c8765945db79233b7266dcddd47c0207b00f832b34653980fc92f8c77330cbb6824ef494204427959268461b73aacd33801d1feabf874d"
+
+[update]
+[update.modrinth]
+mod-id = "UFFkmZv6"
+version = "JzSnlwjE"

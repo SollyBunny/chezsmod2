@@ -6,7 +6,14 @@
     "net.minecraft.client.gui.screen.IngameMenuScreen": true,
     "net.minecraft.client.gui.screen.PackScreen": true,
     "net.minecraft.client.gui.screen.ConfirmOpenLinkScreen": true,
-    "slimeknights.tconstruct.tables.client.inventory.table.CraftingStationScreen": true
+    "slimeknights.tconstruct.tables.client.inventory.table.CraftingStationScreen": true,
+    "com.mrcrayfish.configured.client.screen.ModConfigSelectionScreen": true,
+    "com.mrcrayfish.configured.client.screen.ConfigScreen": true,
+    "com.mrcrayfish.configured.client.screen.EditListScreen": true,
+    "com.mrcrayfish.configured.client.screen.ChangeEnumScreen": true,
+    "vazkii.quark.base.client.config.gui.QuarkConfigHomeScreen": true,
+    "vazkii.quark.base.client.config.gui.CategoryScreen": true,
+    "net.minecraftforge.fml.client.gui.screen.ModListScreen": true
   },
   "hideBackground": {
     "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
