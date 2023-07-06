@@ -2,11 +2,16 @@
   "allowMovement": {
     "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
     "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": true,
-    "mezz.jei.gui.recipes.RecipesGui": true
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "net.minecraft.client.gui.screen.IngameMenuScreen": true,
+    "net.minecraft.client.gui.screen.PackScreen": true,
+    "net.minecraft.client.gui.screen.ConfirmOpenLinkScreen": true,
+    "slimeknights.tconstruct.tables.client.inventory.table.CraftingStationScreen": true
   },
   "hideBackground": {
     "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
     "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": true,
-    "mezz.jei.gui.recipes.RecipesGui": true
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "slimeknights.tconstruct.tables.client.inventory.table.CraftingStationScreen": true
   }
 }

@@ -1,0 +1,14 @@
+name = "Draconic Additions"
+filename = "Draconic-Additions-1.16.5-2.2.4.7-universal.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c887ed81077b6dfe7cf72684aea93f2073d2911f"
+
+[update]
+[update.curseforge]
+file-id = 4059023
+project-id = 314515
