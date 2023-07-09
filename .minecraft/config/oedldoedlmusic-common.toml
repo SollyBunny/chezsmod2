@@ -1,7 +1,0 @@
-#Toggle all recipes from this mod. All recipes for items / blocks / liquids will be disabled. This option is intended for use in a modpack with custom recipes so you do not have to remove them with Crafttweaker. This can break certain recipes or other mechanics. [Default: true]
-enable_mod_recipes = true
-
-[Integration]
-	#Toggle TOP Jukebox tooltips. [Default: true]
-	top_jukebox_tooltips = true
-

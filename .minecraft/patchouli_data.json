@@ -1,1 +1,21 @@
-{"bookGuiScale":0,"clickedVisualize":false,"bookData":{}}
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "rftoolsbase:manual": {
+      "viewedEntries": [
+        "xnet:simple/controller"
+      ],
+      "bookmarks": [
+        {
+          "entry": "xnet:simple/controller",
+          "page": 0
+        }
+      ],
+      "history": [
+        "xnet:simple/controller"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
