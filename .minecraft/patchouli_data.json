@@ -4,15 +4,21 @@
   "bookData": {
     "rftoolsbase:manual": {
       "viewedEntries": [
-        "xnet:simple/controller"
+        "xnet:simple/controller",
+        "xnet:simple/connector"
       ],
       "bookmarks": [
         {
           "entry": "xnet:simple/controller",
           "page": 0
+        },
+        {
+          "entry": "xnet:simple/connector",
+          "page": 0
         }
       ],
       "history": [
+        "xnet:simple/connector",
         "xnet:simple/controller"
       ],
       "completedManualQuests": []
