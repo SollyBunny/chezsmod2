@@ -2,7 +2,7 @@
 #Client Config. This config only exists on the client
 [client]
 	#If enabled machines play their sounds while running.
-	enableMachineSounds = true
+	enableMachineSounds = false
 	#Play sounds for Jetpack/Gas Mask/Flamethrower/Radiation (all players).
 	enablePlayerSounds = true
 	#Adjust Mekanism sounds' base volume. < 1 is softer, higher is louder.
@@ -13,13 +13,13 @@
 	hudScale = 0.6
 	#Range at which Tile Entity Renderer's added by Mekanism can render at, for example the contents of multiblocks. Vanilla defaults the rendering range for TERs to 64 for most blocks, but uses a range of 256 for beacons and end gateways.
 	#Range: 1 ~ 1024
-	terRange = 256
+	terRange = 8
 	#Enable item information HUD during gameplay
 	enableHUD = true
 	#Allow sneak + scroll to change item modes.
 	allowModeScroll = true
 	#If true, don't render Cables/Pipes/Tubes as transparent and don't render their contents.
-	opaqueTransmitters = false
+	opaqueTransmitters = true
 	#Christmas/New Years greetings in chat.
 	holidays = false
 	#Color of energy in item durability display.
@@ -102,7 +102,7 @@
 				y = 2147483647
 
 			[client.gui.window.sideConfig]
-				x = 12
+				x = 13
 				y = 15
 
 			[client.gui.window.confirmation]

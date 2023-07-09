@@ -51,7 +51,7 @@
 	
 	# Only show entities that are on the surface
 	# Default: true
-	only_surface_entities: true
+	only_surface_entities: false
 	
 	# Show your own claimed chunks on the map
 	# Default: true
@@ -168,6 +168,6 @@
 		# Zoom distance of the minimap
 		# Default: 1.0
 		# Range: 1.0 ~ 4.0
-		zoom: 1.0d
+		zoom: 4.0d
 	}
 }
