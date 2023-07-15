@@ -98,11 +98,11 @@
 				y = 2147483647
 
 			[client.gui.window.rename]
-				x = 2147483647
-				y = 2147483647
+				x = 27
+				y = 16
 
 			[client.gui.window.sideConfig]
-				x = 13
+				x = 14
 				y = 15
 
 			[client.gui.window.confirmation]
@@ -118,6 +118,6 @@
 				y = 15
 
 			[client.gui.window.skinSelect]
-				x = 2147483647
-				y = 2147483647
+				x = 4
+				y = -12
 
