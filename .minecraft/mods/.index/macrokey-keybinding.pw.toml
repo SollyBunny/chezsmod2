@@ -1,0 +1,14 @@
+name = "MacroKey Keybinding"
+filename = "MacroKey Keybinding-1.16.5-2.1.0.240.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "0597277fc99072d7ec90c967a7c7a914442cd6de"
+
+[update]
+[update.curseforge]
+file-id = 3519353
+project-id = 243479

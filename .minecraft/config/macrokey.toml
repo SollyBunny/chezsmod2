@@ -1,0 +1,17 @@
+
+["Config for MacroKey Keybinding"]
+	#Customize the position that the button for switching layer should use, expected is {x, y, width, height} (default: -100, 128, 204, 20)
+	"Switcher button setting width" = 204
+	#Customize the position that the button for switching layer should use, expected is {x, y, width, height} (default: -100, 128, 204, 20)
+	"Switcher button setting height" = 20
+	#What file should be used for saving the bindings and various other dynamic information (default: bindings.json)
+	"Binding file" = "bindings.json"
+	#Customize the position that the button for switching layer should use, expected is {x, y, width, height} (default: -100, 128, 204, 20)
+	"Switcher button setting y" = 128
+	#Customize the position that the button for switching layer should use, expected is {x, y, width, height} (default: -100, 128, 204, 20)
+	"Switcher button setting x" = -102
+	#Customize the ID that is used when creating the button for switching layers (default: 823358142), (-1 = disabled)
+	"Switcher button id" = 823358142
+	#How many ticks need to pass for the repeatable command cooldown timer to expire (default: 20 ticks -> 1 second)
+	"Repeat delay" = 20
+
